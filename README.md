@@ -1,7 +1,7 @@
 
 # Hi, I'm Siyasanga! 👋
 
-### Data Analyst | PGDip Data Science | Python | SQL | Power BI | Machine L
+### Data Analyst | PGDip Data Science | Python | SQL | Power BI | Machine Learning
 
 I'm a Data Science postgraduate with a background in Computer Science and Mathematics Education.
 
